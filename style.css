@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+ body {min-height: 100vh;
+    margin: 0; 
+    background-image:url(images/rtjetwjyteury.png);
+    background-size: cover;
+     text-align: center;
+     align-items: center;
+    color: black;}
+     /* mettre une image de fond et tout centrer*/
+
+H1 {border:solid blue 1px;
+   border-radius: 10px; 
+   background-color: blue}
+   /* <!--mettre un cadre pour le titre de couleur rose-->  */
+
+table{text-align: center;} /* pour l'alignement du tableau */
+div{
+display: flex;
+justify-content: center;} /* pour l'alignement du tableau */
+
+h2 { border-radius: 10px; 
+   background-color: rgb(12, 247, 149)} /* encadrer les balises en h2 */ 
+
+
+ p{ border: solid 2px black;} /* encadrer le logo de retour à la première page */ 
+
+ 
